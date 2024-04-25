@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu pefil 💟
 
-<!--
-**Mariana200616/Mariana200616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Mariana
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### você pode entrar em contato comigo 📫
+
+00001105101034Sp@al.educacao.Sp.gov.br
+
+
+![](<img src="https://w7.pngwing.com/pngs/233/775/png-transparent-we-bare-bears-grizzly-grizzly-bear-giant-panda-polar-bear-cuteness-koala-mammal-animals-cat-like-mammal.png" alt="png-transparent-we-bare-bears-grizzly-grizzly-bear-giant-panda-polar-bear-cuteness-koala-mammal-animals-cat-like-mammal.png (920×1115)"/>![image](https://github.com/Mariana200616/Mariana200616/assets/168031187/a2584b21-b1cb-4d37-bc86-4d0cd58fe825)
+)
